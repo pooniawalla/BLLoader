@@ -53,7 +53,7 @@ Add BLLoader class into your project.
 
 ## Author
 
-- [Babulal Poonia](https://github.com/BLPoonia) ([@_iambabu](https://twitter.com/_iambabu))
+- [Babulal Poonia](https://github.com/BLPoonia) ([@ixpoonia](https://twitter.com/ixpoonia))
 
 ## License
 
